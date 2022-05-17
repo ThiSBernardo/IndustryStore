@@ -33,7 +33,7 @@ import { MatSortModule } from '@angular/material/sort';
 
 import localept from '@angular/common/locales/pt';
 import { registerLocaleData } from '@angular/common';
-import { ProductTUpdateComponent } from './components/product/product-t-update/product-t-update.component';
+import { ProductUpdateComponent } from './components/product/product-update/product-update.component';
 
 registerLocaleData(localept);
 @NgModule({
@@ -49,7 +49,7 @@ registerLocaleData(localept);
     ProductCreateComponent,
     ProductReadComponent,
     ProductRead2Component,
-    ProductTUpdateComponent
+    ProductUpdateComponent
   ],
   imports: [
     BrowserModule,

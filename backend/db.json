@@ -7,13 +7,13 @@
     },
     {
       "id": 2,
-      "name": "mac pro",
+      "name": "MacBook Pro",
       "price": 5000.1
     },
     {
       "id": 3,
-      "name": "Samsung",
-      "price": 3
+      "name": "Samsung S20",
+      "price": 7500
     },
     {
       "id": 4,
@@ -59,6 +59,11 @@
       "name": "iphone xe",
       "price": 2900,
       "id": 12
+    },
+    {
+      "name": "Produto de teste",
+      "price": 125.98,
+      "id": 13
     }
   ]
 }
