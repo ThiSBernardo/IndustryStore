@@ -31,7 +31,8 @@ product: Product
     });
   }
 
-  cancel(): void {
+  onCancel(): void {
+    this.router.navigate(['/products'])
 
   }
 }
