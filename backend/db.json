@@ -3,51 +3,26 @@
     {
       "id": 1,
       "name": "Caneta BIC preta",
-      "price": 5.89
+      "price": 6.5
     },
     {
       "id": 2,
       "name": "MacBook Pro",
-      "price": 5000.1
+      "price": 5000
     },
     {
       "id": 3,
-      "name": "Samsung S20",
+      "name": "Samsung S20+",
       "price": 7500
     },
     {
-      "id": 4,
-      "name": "Caneta BIC preta",
-      "price": 5.89
-    },
-    {
-      "name": "Produto de teste",
-      "price": 125.98,
-      "id": 5
-    },
-    {
-      "name": "Produto de teste",
-      "price": 125.98,
-      "id": 6
-    },
-    {
-      "name": "Produto de teste",
-      "price": 125.98,
-      "id": 7
-    },
-    {
-      "name": "Produto de teste 3",
-      "price": 125.98,
-      "id": 8
-    },
-    {
-      "name": "Iphone 11",
-      "price": 3.5,
+      "name": "Iphone -11",
+      "price": 3500,
       "id": 9
     },
     {
       "name": "Geladeira",
-      "price": 3.458,
+      "price": 3458,
       "id": 10
     },
     {
@@ -56,14 +31,9 @@
       "id": 11
     },
     {
-      "name": "iphone xe",
+      "name": "Iphone xr",
       "price": 2900,
       "id": 12
-    },
-    {
-      "name": "Produto de teste",
-      "price": 125.98,
-      "id": 13
     }
   ]
 }
